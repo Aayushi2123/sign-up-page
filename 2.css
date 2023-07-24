@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:url("./3409297.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.center{
+    margin-right: 290px;
+    background-color: hwb(208 94% 0% / 0.594);
+    margin-left: 529px;
+    width: 402px;
+    margin-bottom: 422px;
+    margin-top: 15px;
+    height: 627px;
+    border-radius: 80px;
+    padding: 39px;
+}
+h1{
+    text-align: center;
+    height: 41px;
+    font-size: 47px;
+    font-style: italic;
+    color: darkslateblue;
+    text-decoration: underline;
+}
+input{
+    border: none;
+    border-bottom: 2px solid rgb(35, 22, 22);
+    margin-left: 74px;
+    margin-top: 45px;
+    font-size: 15px;
+    background-color: transparent;
+}
+.mywidth{
+    width: 257px;
+}
+input:focus {
+    outline:none;
+}
+.mybtn{
+    width: 226px;
+    background-color: darkviolet;
+    padding: 8px;
+    /* margin-top: 26px; */
+    marrgin-left: 2px;
+    border: 5px solid blueviolet;
+    border-radius: 18px;
+    font-size: 21px;
+    color: white;
+    cursor: pointer;
+    margin: 62px;
+    margin-top: 26px;
+    /* margin-right: 76px; */
+    margin-left: 93px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.mybtn:hover{
+    background-color: crimson;
+    color: black;
+    width:200px;
+}
+.myradio1{
+   
+    margin-top: 2px!important;
+}
+.myradio2{
+    margin-top: 2px!important;
+
+}
+p{
+    margin-left: 71px;
+    margin-top: 26px;
+}
+.myp{
+    margin-top: -37px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: cornflowerblue;
+}
